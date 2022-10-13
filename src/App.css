@@ -3,7 +3,8 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  padding: 4em;
+  height: 70vmin;
   pointer-events: none;
 }
 
@@ -25,7 +26,22 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #001d9e;
+}
+.Inicio-header{
+  background-color: aqua;
+  min-height: 95vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.Inicio-footer{
+  background-color: #282c34;
+  display: block;
+
+}
+.botonRetorno{
+display: inline-block;
 }
 
 @keyframes App-logo-spin {
