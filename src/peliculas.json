@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "imagen" : "imagens/peliculas/theGodfather.png",
+        "titulo" : "The Godfater",
+        "Dirección" : "Francis Ford Coppola",
+        "descripcion" : "El envejecido patriarca de una dinastía del crimen organizado en la ciudad de Nueva York de la posguerra transfiere el control de su imperio clandestino a su reacio hijo menor."
+    },
+    {
+        "id" : 2,
+        "imagen" : "imagens/peliculas/elLagoDelGansoSalvaje.jpg",
+        "titulo" : "El lago del ganzo Salvaje",
+        "Dirección" : "Diao Yinan",
+        "descripcion" : "La película que \"levantó a Tarantino de su asiento\", afirma el póster español para convencer al público. No sorprende que eso pasara, más de una vez, al degustar esta apabullante lección de cine firmada por Yinan. No es solo una joya del drama criminal, imposible de realizar por otro autor, es una de las películas más cautivadoras que se han hecho en los últimos años."
+    },
+    {
+        "id" : 3,
+        "imagen" : "imagens/peliculas/unaVidaOculta.jpg",
+        "titulo" : "Una Vida Oculta",
+        "Dirección" : "Terrence Malick",
+        "descripcion" : "La última de Malick, presentada en Cannes, son tres horas que resumen lo mejor y lo peor de su cine. Diría que \"para fans\", pero creo hay escenas tan hermosas, impulsadas por la emocionante música de James Newton Howard, que cualquier espectador que busque una historia poderosa debería adentrarse en esta profunda reflexión protagonizada por un auténtico mártir."
+    },
+    {
+        "id" : 4,
+        "imagen" : "imagens/peliculas/soloNosQuedaBailar.jpg",
+        "titulo" : "Solo nos queda bailar",
+        "Dirección" : "Levan Akin",
+        "descripcion" : "La conservadora danza tradicional de Georgia sirve de marco para explorar la lucha interior de un joven obligado a demostrar su valía mientras su mundo se tambalea tras enamorarse de alguien que acaba de entrar en su vida y que, para complicarlo todo, es un competidor directo por el puesto que aspira. Un sensible relato de madurez, de búsqueda de identidad, de amor y de libertad, con un final maravilloso."
+    },
+    {
+        "id" : 5,
+        "imagen" : "imagens/peliculas/pulpFiction.jpg",
+        "titulo" : "Pulp Fiction",
+        "Dirección" : "Quentin Tarantino",
+        "descripcion" : "Las vidas de dos mafiosos, un boxeador, la esposa de un gánster y un par de bandidos se entrelazan en cuatro historias de violencia y redención."
+    }
+]

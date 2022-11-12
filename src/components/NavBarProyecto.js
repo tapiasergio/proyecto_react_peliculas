@@ -29,7 +29,7 @@ const NavBarProyecto = () => {
                     <NavDropdown.Item as={Link} to = "/Peliculas">Ver Más</NavDropdown.Item>
                 </NavDropdown>
                 <NavDropdown title="Más" id="basic-nav-dropdown">
-                    <NavDropdown.Item as={Link} to = "/Peliculas">Accion</NavDropdown.Item>
+                    <NavDropdown.Item as={Link} to = "/Desarrolladores">Integrantes grupo 8</NavDropdown.Item>
                     <NavDropdown.Divider/>
                     <NavDropdown.Item as={Link} to = "/Peliculas">Ver Más</NavDropdown.Item>
                 </NavDropdown>

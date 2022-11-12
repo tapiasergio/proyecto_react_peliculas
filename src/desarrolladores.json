@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 1,
+        "imagen" : "imagens/desarrolladores/PerfilD.png",
+        "Nombre" : "Tapia Sergio Dario",
+        "descripcion" : "Programador",
+        "repositorio" : "https://github.com/tapiasergio"
+    },
+    {
+        "id" : 2,
+        "imagen" : "imagens/desarrolladores/PerfilD.png",
+        "Nombre" : "Altamirano",
+        "descripcion" : "Programador",        
+        "repositorio" : "https://github.com/tapiasergio"
+    },
+    {
+        "id" : 3,
+        "imagen" : "imagens/desarrolladores/PerfilD.png",
+        "Nombre" : "Marquez",
+        "descripcion" : "Programador",
+        "repositorio" : "https://github.com/tapiasergio"
+    },
+    {
+        "id" : 4,
+        "imagen" : "imagens/desarrolladores/PerfilD.png",
+        "Nombre" : "Zenteno",
+        "descripcion" : "Programador",
+        "repositorio" : "https://github.com/tapiasergio"
+    },
+    {
+        "id" : 5,
+        "imagen" : "imagens/desarrolladores/PerfilD.png",
+        "Nombre" : "Ontiveros",
+        "descripcion" : "Programador",
+        "repositorio" : "https://github.com/tapiasergio"
+    },
+    {
+        "id" : 6,
+        "imagen" : "imagens/desarrolladores/PerfilD.png",
+        "Nombre" : "Espada",
+        "descripcion" : "Programador",
+        "repositorio" : "https://github.com/tapiasergio"
+    }
+]

@@ -13,6 +13,7 @@ import { useNavigate } from 'react-router-dom';*/
 //import Routes from './components/Routes';
 import NavBarProyecto from './components/NavBarProyecto';
 import React from 'react';
+import Desarrolladores from './components/Desarrolladores';
 
 function App() {
 
@@ -25,6 +26,7 @@ function App() {
           <Route index element= { <Inicio/>}></Route>
         <Route path='principal' element={ <Principal/>}></Route>
         <Route path='peliculas' element={ <Pelicula/>}></Route>
+        <Route path='desarrolladores' element={ <Desarrolladores/>}></Route>
         <Route path='*' element={<Error/>}></Route>
         </Route>
         
